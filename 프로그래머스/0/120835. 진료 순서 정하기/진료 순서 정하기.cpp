@@ -17,5 +17,6 @@ vector<int> solution(vector<int> emergency) {
             }
         }
     }
+    
     return answer;
 }
